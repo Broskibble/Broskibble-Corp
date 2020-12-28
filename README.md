@@ -1,8 +1,7 @@
 # **Broskibble**
 ###### *Broskibble corp is selling video games.*
 
-> > > Games planned!
-
+  Games planned:
 1. Luna of the underground
 2. the Void
 
