@@ -1,5 +1,3 @@
-# **Broskibble**
-###### *Broskibble corp is selling video games.*
 [![Watch on GitHub](downloads.png)](https://broskibble.github.io/Downloads/)
 
   Games planned:
