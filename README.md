@@ -9,4 +9,3 @@
 ![???](image.jpg "???")
 
 [![Watch on GitHub](downloads.png)](https://broskibble.github.io/Downloads/)
-[![Watch on GitHub](image.jpg?style=social)](https://broskibble.github.io/Downloads/)
